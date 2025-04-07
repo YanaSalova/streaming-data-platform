@@ -22,4 +22,6 @@
    - Хранит сообщения поступившие из spark streaming
 
 7. **Kafka consumer group**
-   - Читает данные из Kafka topic и записывает в Apache Cassandra 
+   - Читает данные из Kafka topic и записывает в Apache Cassandra
+
+   
